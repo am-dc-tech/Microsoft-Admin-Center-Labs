@@ -18,12 +18,9 @@ Before creating the ticket, I set up the scenario so the problem was real: a use
 
 1. Go to **admin.microsoft.com** and sign in with the admin account.
 2. Go to **Users > Active users** and confirm **Jamie Randle** is in the list.
-3. Select Jamie and choose **Reset password**. Auto-create a password and note the temporary password.
-4. In a **private browser window**, go to **myaccount.microsoft.com**, sign in as Jamie, and set a new password. This confirms the account worked before the problem and gives you a password to use later.
-5. Back in the admin center, select Tracy again and click **Block sign-in**, then save.
-6. Confirm the account now shows sign-in as **blocked**.
+3. In a **private browser window**, go to **myaccount.microsoft.com**, sign in as Jamie, try 10 attempts and be locked out of your account
 
-<img width="544" height="177" alt="1 block-sign-in" src="https://github.com/user-attachments/assets/0ae9279a-11bf-4925-87ef-8f8c859dc598" />
+<img width="440" height="393" alt="1 forgot-password-locked-out" src="https://github.com/user-attachments/assets/975f1f67-6ff9-4e22-87fc-b9f533f881dd" />
 
 
 ### Ticket-002
