@@ -1,4 +1,4 @@
-#Help Desk Ticket Lab : Password Reset (Tracy Dalhousie)
+#Microsoft Admin Center Lab With Jira : Password Reset (Tracy Dalhousie)
 
 ## Summary 
 
