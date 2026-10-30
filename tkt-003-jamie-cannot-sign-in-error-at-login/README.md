@@ -153,7 +153,5 @@ A blocked account typically shows error **50057** (user account is disabled).
 - How to reproduce a user's problem first, then verify the fix by testing as the user.
 - How to write a resolution comment that records the evidence, the fix, and the verification.
 
-## Tools Used
 
-Jira, Microsoft 365 admin center, Microsoft Entra admin center, Entra sign-in logs, private browser session for verification
 
