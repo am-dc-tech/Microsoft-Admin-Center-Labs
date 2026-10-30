@@ -121,7 +121,10 @@ Licenses cost money and require manager or budget approval. A service desk techn
 
 > Jira's default workflow has no "Escalated" status, so I used a label together with the Waiting for customer status to show the ticket was on hold for approval.
 
-![Ticket escalated with label and comment](images/05-escalated.png)
+<img width="904" height="35" alt="Screenshot 2026-10-29 222019" src="https://github.com/user-attachments/assets/fa7b71f4-b5f1-45aa-8f00-389adf04c078" />
+
+<img width="327" height="55" alt="Screenshot 2026-10-29 222057" src="https://github.com/user-attachments/assets/d0ab5917-1c10-4665-87c7-d2eda1a6b0b8" />
+
 
 ---
 
