@@ -83,7 +83,10 @@ A blocked account typically shows error **50057** (user account is disabled).
 - Error code: 50057 (account disabled)
 ```
 
-![Sign-in log entry showing the failure reason](images/03-signin-log.png)
+<img width="617" height="34" alt="Screenshot 2026-10-30 090956" src="https://github.com/user-attachments/assets/10493d0d-406d-4a71-b9a2-03dc8c1360d6" />
+
+<img width="449" height="234" alt="Screenshot 2026-10-30 091618" src="https://github.com/user-attachments/assets/3ef8b9e8-27db-4373-8d39-ec6d43ef3409" />
+
 
 > [!NOTE]
 > Sign-in logs can be delayed by several minutes. If the entry does not appear, check **Audit logs** for the block action, and confirm the status on the user's account page in the admin center.
