@@ -61,8 +61,18 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 <img width="544" height="150" alt="3 jira-first-comment" src="https://github.com/user-attachments/assets/54ca4bea-7d4b-4ded-babb-d1118b8bc343" />
 
+## Step 3: Use Entra To Verify Why User Cannot Login
 
-## Step 3: Reset the Passwords in the Admin Center
+1. Open up Microsoft Entra Admin Center
+2. Go to **Users**
+3. Go to users **Tracy**
+4. **Sign-in Logs**
+5. Verify the issue
+
+<img width="778" height="74" alt="5 entra-tracy-sign-in-issue" src="https://github.com/user-attachments/assets/adfa8b49-16f2-4035-9338-441545fdf98f" />
+
+
+## Step 4: Reset the Passwords in the Admin Center
 
 1. Go to admin.microsoft.com and sign in with the admin account.
 2. Go to **Users** then go to **Active Users**.
@@ -75,7 +85,7 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 <img width="453" height="295" alt="Screenshot 2026-10-29 173848" src="https://github.com/user-attachments/assets/6882ff35-1fa2-4d93-9cd4-f803c0d385c7" />
 
-## 4 Step 4: Verify the Solution
+## Step 5: Verify the Solution
 
 1. Open a private incognito browser so you are not signed in as as admin.
 2. Go to **myaccount.microsoft.com**
@@ -85,7 +95,7 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 <img width="479" height="272" alt="Screenshot 2026-10-29 214434" src="https://github.com/user-attachments/assets/aa2df67f-64b6-42c1-898e-a7cefa033d79" />
 
-##Step 5: Document and Resolve in Jira
+## Step 6: Document and Resolve in Jira
 
 1. Return to the Jira ticket
 2. Add a resolution comment: `Reset password in M365 admin center with forced change at next sign-in. Verified user can sign in and update password. Resolved.`
