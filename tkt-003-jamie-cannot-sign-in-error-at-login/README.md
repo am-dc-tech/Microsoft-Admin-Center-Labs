@@ -114,8 +114,6 @@ A blocked account typically shows error **50057** (user account is disabled).
 <img width="449" height="234" alt="Screenshot 2026-10-30 091618" src="https://github.com/user-attachments/assets/3ef8b9e8-27db-4373-8d39-ec6d43ef3409" />
 
 
-![Jamie signed in successfully](images/05-verified.png)
-
 ## Step 6: Document and Resolve in Jira
 
 1. Return to the Jira ticket.
