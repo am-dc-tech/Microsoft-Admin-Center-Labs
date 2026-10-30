@@ -1,4 +1,4 @@
-# Help Desk Ticket Lab: Missing License and Escalation (Pablo Marquez)
+# Microsoft Admin Center Ticket Lab: Missing License and Escalation (Pablo Marquez)
 
 ## Summary
 
