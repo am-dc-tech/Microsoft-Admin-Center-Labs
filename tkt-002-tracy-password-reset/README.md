@@ -17,7 +17,7 @@ In this lab, I handled a forgotten password ticket from start to finish. I creat
 Before creating the ticket, I set up the scenario so the problem was real: a user with a working account whose sign-in has been blocked.
 
 1. Go to **admin.microsoft.com** and sign in with the admin account.
-2. Go to **Users > Active users** and confirm **Jamie Randle** is in the list.
+2. Go to **Users > Active users** and confirm **Tracy Dalhousie** is in the list.
 3. In a **private browser window**, go to **myaccount.microsoft.com**, sign in as Jamie, try 10 attempts and be locked out of your account
 
 <img width="440" height="393" alt="1 forgot-password-locked-out" src="https://github.com/user-attachments/assets/975f1f67-6ff9-4e22-87fc-b9f533f881dd" />
@@ -27,7 +27,7 @@ Before creating the ticket, I set up the scenario so the problem was real: a use
 
 | Field | Entry |
 |---|---|
-| Summary | Tracy - forgot password, cannot sign in |
+| Summary | Tracy - forgot password, cannot sign in, locked out of account |
 | Requester | Tracy Dalhousie |
 | Priority | Medium |
 | Category | Password |
