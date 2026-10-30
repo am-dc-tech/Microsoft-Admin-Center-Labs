@@ -12,10 +12,16 @@ In this lab, I handled a forgotten password ticket from start to finish. I creat
 - Portals: admin.microsoft.com, entra.microsoft.com
 - Verification: sign in as the user in a private browser window at myaccount.microsoft.com
 
-## Users in Admin Center
+## Prep: Set Up the Lab
 
-<img width="883" height="222" alt="Screenshot 2026-10-29 184004" src="https://github.com/user-attachments/assets/ccbde5f1-fcf7-4085-af09-36b5d3d846c7" />
+Before creating the ticket, I set up the scenario so the problem was real: a user with a working account whose sign-in has been blocked.
 
+1. Go to **admin.microsoft.com** and sign in with the admin account.
+2. Go to **Users > Active users** and confirm **Jamie Randle** is in the list.
+3. Select Jamie and choose **Reset password**. Auto-create a password and note the temporary password.
+4. In a **private browser window**, go to **myaccount.microsoft.com**, sign in as Jamie, and set a new password. This confirms the account worked before the problem and gives you a password to use later.
+5. Back in the admin center, select Jamie again and click **Block sign-in**, then save.
+6. Confirm the account now shows sign-in as **blocked**.
 
 ### Ticket-002
 
