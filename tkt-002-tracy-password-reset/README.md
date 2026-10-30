@@ -66,8 +66,6 @@ Description: User states she forgot her password and cannot sign in to her accou
 4. **Sign-in Logs**
 5. Verify the issue
 
-<img width="453" height="295" alt="7 password-reset" src="https://github.com/user-attachments/assets/46b99f13-670a-4acd-866b-18580c93ebfa" />
-<img width="849" height="669" alt="6 full-entra-id-log" src="https://github.com/user-attachments/assets/66132d7a-81ac-4de6-9b83-a0c823eb11d8" />
 <img width="793" height="81" alt="5 entra-password-issue" src="https://github.com/user-attachments/assets/06a5218e-0da5-4646-aea5-ddbc66ec8c30" />
 
 
