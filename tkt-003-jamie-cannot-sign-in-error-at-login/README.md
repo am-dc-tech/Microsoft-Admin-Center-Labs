@@ -1,4 +1,4 @@
-# Help Desk Ticket Lab: Blocked Account Troubleshooting (Jamie Randle)
+# Microsoft Admin Lab: Blocked Account Troubleshooting (Jamie Randle)
 
 ## Summary
 
