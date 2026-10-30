@@ -148,6 +148,3 @@ Licenses cost money and require manager or budget approval. A service desk techn
 - How to write an escalation note that tells the next person what was checked, what was found, and what is needed.
 - That Jira's default workflow has no escalation status, so a label and the Waiting for customer status can show the ticket is on hold.
 
-## Tools Used
-
-Jira, Microsoft 365 admin center, private browser session for verification
