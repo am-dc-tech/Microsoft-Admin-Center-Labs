@@ -35,6 +35,22 @@ In this lab, I handled a "can't open email" ticket in Jira and traced it to a mi
 
 ---
 
+## Prep: Set Up the Lab
+
+Before creating the ticket, I set up the scenario so the problem was real: a user who can sign in but has no license.
+
+1. Go to **admin.microsoft.com** and sign in with the admin account.
+2. Go to **Users > Active users** and confirm **Pablo Marquez** is in the list.
+3. Select Pablo and open the **Licenses and apps** tab. Confirm **no licenses are assigned**. Leave it this way on purpose, since the missing license is the problem to find.
+4. Confirm his sign-in is **not blocked**, so the only issue is the license.
+5. Select **Reset password**, auto-create a password, and note the temporary password.
+6. In a **private browser window**, go to **myaccount.microsoft.com**, sign in as Pablo, and set a new password. This confirms the account works and gives you a password to use later.
+7. Try to login into Outlook for Pablo and see the error message.
+
+<img width="1553" height="398" alt="1 Outlook-error" src="https://github.com/user-attachments/assets/f95c6ff8-4318-4c95-96dc-d9777574aab4" />
+
+---
+
 ## Step 1: Create the Ticket in Jira
 
 1. Log in to Jira and open your help desk project.
