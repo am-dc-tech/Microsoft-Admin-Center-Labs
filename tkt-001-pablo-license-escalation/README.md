@@ -7,7 +7,7 @@ In this lab, I handled a "can't open email" ticket in Jira and traced it to a mi
 ## Environment
 
 - **Ticketing:** Jira
-- **Admin portal:** Microsoft 365 admin center (admin.microsoft.com)
+- **Admin portal:** Microsoft Admin Center (admin.microsoft.com)
 - **User:** Pablo Marquez (test user, unlicensed)
 - **Verification:** Private browser window at myaccount.microsoft.com
 
