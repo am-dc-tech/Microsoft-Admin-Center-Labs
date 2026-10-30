@@ -9,7 +9,7 @@ In this lab, I handled a forgotten password ticket from start to finish. I creat
 - Tenant: amtechlab.onmicrosoft.com
 - Admin: Kanbei - Jira
 - User:  Tracy Dalhousie
-- Portals: admin.microsoft.com, entra.microsoft.com
+- Portals: Microsoft 365 admin center (admin.microsoft.com), Microsoft Entra admin center (entra.microsoft.com)
 - Verification: sign in as the user in a private browser window at myaccount.microsoft.com
 
 ## Prep: Set Up the Lab
