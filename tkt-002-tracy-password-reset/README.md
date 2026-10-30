@@ -56,6 +56,8 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 <!-- In real time environments, the it support should verify the user identity before resetting the password. -->
 
+<img width="950" height="34" alt="3 jira-ticket-status" src="https://github.com/user-attachments/assets/76ffb3c6-06e9-4133-9264-e77609ee46b0" />
+
 
 <img width="544" height="150" alt="3 jira-first-comment" src="https://github.com/user-attachments/assets/54ca4bea-7d4b-4ded-babb-d1118b8bc343" />
 
