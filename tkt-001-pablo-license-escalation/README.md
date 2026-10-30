@@ -128,7 +128,7 @@ Licenses cost money and require manager or budget approval. A service desk techn
 ## Step 7: Escalate and Document in Jira
 
 1. Return to the Jira ticket.
-2. Add the label `escalated`.
+2. Add the label `Awaiting Approval`.
 3. Add a comment:
 
    `Account is healthy and user can sign in. No Microsoft 365 license assigned, so no mailbox exists. Escalated to manager for license approval. Ticket on hold until approval is received.`
