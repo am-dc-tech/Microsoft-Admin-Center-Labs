@@ -90,12 +90,12 @@ The account works, so the problem is not a password or blocked account.
 <img width="526" height="222" alt="image" src="https://github.com/user-attachments/assets/2a672d5b-613a-4372-ac40-2471d98072a0" />
 
 
-## Step 4: Check Licensing in the Admin Center
+## Step 4: Check Licensing in the Microsoft Entra Admin Center
 
-1. Go to **admin.microsoft.com** and sign in with the admin account.
+1. Go to Entra Admin Center and sign in with the admin account.
 2. Go to **Users > Active users**.
 3. Select **Pablo Marquez**.
-4. Open the **Licenses and apps** tab.
+4. Open the **Licenses
 5. Check which licenses are assigned.
 
 ```diff
@@ -104,7 +104,7 @@ The account works, so the problem is not a password or blocked account.
 + Account sign-in: working
 ```
 
-<img width="777" height="504" alt="Screenshot 2026-10-29 221747" src="https://github.com/user-attachments/assets/7a830ecc-1659-48ba-9d1e-a99564569815" />
+<img width="1038" height="303" alt="6 Entra-Id-License" src="https://github.com/user-attachments/assets/297a48fb-5cac-4b98-a767-4f957414d362" />
 
 
 ## Step 5: Identify the Root Cause
