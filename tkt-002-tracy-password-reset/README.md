@@ -2,7 +2,6 @@
 
 ## Summary 
 
-I worked three lab desk tickets in my own Microsoft 465 tenant using the Microsoft 365 admin center and Microsoft Entra admin center. The tickets covered a password reset, a blocked account diagnosed through sign-in logs and a licensing issue that has be escalated approval. 
 
 ## Environment 
 
