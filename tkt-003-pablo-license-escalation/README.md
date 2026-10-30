@@ -117,14 +117,15 @@ Licenses cost money and require manager or budget approval. A service desk techn
 
    `Account is healthy and user can sign in. No Microsoft 365 license assigned, so no mailbox exists. Escalated to manager for license approval. Ticket on hold until approval is received.`
 
-4. Change the status to **Waiting for customer**.
+4. Make another 
+5. Change the status to **Waiting for customer**.
 
 > Jira's default workflow has no "Escalated" status, so I used a label together with the Waiting for customer status to show the ticket was on hold for approval.
 
-<img width="904" height="35" alt="Screenshot 2026-10-29 222019" src="https://github.com/user-attachments/assets/fa7b71f4-b5f1-45aa-8f00-389adf04c078" />
+<img width="1052" height="37" alt="Screenshot 2026-10-30 082244" src="https://github.com/user-attachments/assets/064f482d-05c7-4b05-8f50-e008e139e12f" />
 
-<img width="492" height="465" alt="Screenshot 2026-10-29 222143" src="https://github.com/user-attachments/assets/98968580-f226-4b99-899b-bc2ce2d19dc1" />
 
+<img width="590" height="558" alt="Screenshot 2026-10-30 082132" src="https://github.com/user-attachments/assets/1eec7ed3-a688-4416-bc5c-ff77ccd9d1c8" />
 
 ---
 
