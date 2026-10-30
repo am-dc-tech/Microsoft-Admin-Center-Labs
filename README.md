@@ -1,4 +1,4 @@
-# Windows-Linux-SSH
+#Help Desk Ticket Lab : Password Reset (Tracy Dalhousie)
 
 ## Summary 
 
@@ -78,3 +78,19 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 <img width="554" height="344" alt="Screenshot 2026-10-29 214816" src="https://github.com/user-attachments/assets/5e9de11d-c5e5-43c6-b586-edca22f01c74" />
 
+
+## Final Result
+
+| Field | Entry |
+|---|---|
+| Status | Resolved |
+| Root cause | User forgot password |
+| Fix | Admin password reset with forced change at first sign-in |
+| Verified | Yes, user signed in and set a new password |
+
+## What I Learned.
+- How to reset a user's password in the Microsoft 365 admin center.
+- Why a temporary password should require a change at first sign-in, so only the user knows their final password.
+- Why identity verification comes before a reset.
+- How to verify a fix by testing as the user in a private browser window instead of assuming it worked.
+- That ticketing and admin tools are separate systems used side by side: work the ticket in Jira, fix the issue in the admin  center, then document the result back in the ticket.
