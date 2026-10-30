@@ -123,7 +123,7 @@ Licenses cost money and require manager or budget approval. A service desk techn
 
 <img width="904" height="35" alt="Screenshot 2026-10-29 222019" src="https://github.com/user-attachments/assets/fa7b71f4-b5f1-45aa-8f00-389adf04c078" />
 
-<img width="327" height="55" alt="Screenshot 2026-10-29 222057" src="https://github.com/user-attachments/assets/d0ab5917-1c10-4665-87c7-d2eda1a6b0b8" />
+<img width="492" height="465" alt="Screenshot 2026-10-29 222143" src="https://github.com/user-attachments/assets/98968580-f226-4b99-899b-bc2ce2d19dc1" />
 
 
 ---
