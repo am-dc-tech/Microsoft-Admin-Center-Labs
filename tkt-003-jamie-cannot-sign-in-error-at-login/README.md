@@ -44,6 +44,9 @@ So there is something real to troubleshoot, I blocked Jamie's sign-in before cre
 2. Go to **Users > Active users** and select **Jamie Randle**.
 3. Click **Block sign-in** and save.
 
+<img width="535" height="167" alt="Screenshot 2026-10-30 091745" src="https://github.com/user-attachments/assets/1b27a7f2-a952-4ee9-8229-5448d4f57ae0" />
+
+
 ## Step 1: Create the Ticket in Jira
 
 1. Log in to Jira and open your help desk project.
