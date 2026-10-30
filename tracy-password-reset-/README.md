@@ -83,7 +83,7 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 | Field | Entry |
 |---|---|
-| Status | Resolved |
+| Status | Resolved 🟢 |
 | Root cause | User forgot password |
 | Fix | Admin password reset with forced change at first sign-in |
 | Verified | Yes, user signed in and set a new password |
