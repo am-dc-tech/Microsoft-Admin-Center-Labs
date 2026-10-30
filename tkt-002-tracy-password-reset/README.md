@@ -2,6 +2,7 @@
 
 ## Summary 
 
+In this lab, I handled a forgotten password ticket from start to finish. I created the ticket in Jira, reset the user’s password in the Microsoft 365 admin center, verified the fix by signing in as the user, and documented the resolution back in the ticket. This mirrors one of the most common service desk requests.
 
 ## Environment 
 
@@ -16,7 +17,7 @@
 <img width="883" height="222" alt="Screenshot 2026-10-29 184004" src="https://github.com/user-attachments/assets/ccbde5f1-fcf7-4085-af09-36b5d3d846c7" />
 
 
-### Ticket-001
+### Ticket-002
 
 | Field | Entry |
 |---|---|
