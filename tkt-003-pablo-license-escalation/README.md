@@ -130,4 +130,24 @@ Licenses cost money and require manager or budget approval. A service desk techn
 
 ## Final Result
 
-| Field
+| Field | Entry |
+|---|---|
+| Status | 🔴 Escalated (Waiting for customer) |
+| Root cause | No Microsoft 365 license assigned |
+| Action taken | Diagnosed and escalated to manager for approval |
+| Next step | Assign a license once approval is received, then confirm the mailbox opens |
+
+---
+
+## What I Learned
+
+- That an account can be healthy while a user still can't do their job, as with a missing license and no mailbox.
+- How to check a user's license status in the Microsoft 365 admin center.
+- How to rule out sign-in problems first before looking at licensing.
+- When to escalate instead of fixing a problem myself, such as when a purchase needs approval.
+- How to write an escalation note that tells the next person what was checked, what was found, and what is needed.
+- That Jira's default workflow has no escalation status, so a label and the Waiting for customer status can show the ticket is on hold.
+
+## Tools Used
+
+Jira, Microsoft 365 admin center, private browser session for verification
