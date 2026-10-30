@@ -65,7 +65,8 @@ So there is something real to troubleshoot, I blocked Jamie's sign-in before cre
 3. Enter Jamie's username and password.
 4. Note the error message shown.
 
-![Sign-in error message](images/02-signin-error.png)
+<img width="439" height="371" alt="Screenshot 2026-10-29 174627" src="https://github.com/user-attachments/assets/1cb43ca7-6cf6-40f5-b84f-80246fd48ad9" />
+
 
 ## Step 3: Diagnose in the Entra Admin Center
 
