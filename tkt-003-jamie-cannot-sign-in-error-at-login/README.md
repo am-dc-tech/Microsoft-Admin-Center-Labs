@@ -28,7 +28,7 @@ In this lab, I handled a "can't sign in" ticket in Jira and diagnosed the cause 
 | Field | Entry |
 |---|---|
 | Ticket ID | TKT-003 |
-| Summary | Jamie Randle - cannot sign in, error at login |
+| Summary | Jamie - cannot sign in, error at login |
 | Requester | Jamie Randle |
 | Priority | High |
 | Category | Account |
