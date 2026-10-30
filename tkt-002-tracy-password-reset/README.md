@@ -1,4 +1,4 @@
-# Microsoft Admin Center Lab With Jira : Password Reset (Tracy)
+# Microsoft Admin Center Ticket Lab : Password Reset (Tracy)
 
 ## Summary 
 
