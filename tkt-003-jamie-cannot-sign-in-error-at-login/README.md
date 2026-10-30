@@ -124,7 +124,7 @@ A blocked account typically shows error **50057** (user account is disabled).
 
 | Field | Entry |
 |---|---|
-| Status | Resolved |
+| Status | Resolved 🟢 |
 | Root cause | Account sign-in was blocked |
 | Evidence | Entra sign-in log error 50057 and blocked status on the user account |
 | Fix | Unblocked sign-in in the admin center |
