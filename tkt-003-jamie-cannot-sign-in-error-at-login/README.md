@@ -88,8 +88,6 @@ A blocked account typically shows error **50057** (user account is disabled).
 
 <img width="617" height="34" alt="Screenshot 2026-10-30 090956" src="https://github.com/user-attachments/assets/10493d0d-406d-4a71-b9a2-03dc8c1360d6" />
 
-<img width="449" height="234" alt="Screenshot 2026-10-30 091618" src="https://github.com/user-attachments/assets/3ef8b9e8-27db-4373-8d39-ec6d43ef3409" />
-
 
 > [!NOTE]
 > Sign-in logs can be delayed by several minutes. If the entry does not appear, check **Audit logs** for the block action, and confirm the status on the user's account page in the admin center.
@@ -104,7 +102,6 @@ A blocked account typically shows error **50057** (user account is disabled).
 + Sign-in status: Allowed
 ```
 
-![Jamie's account with sign-in allowed](images/04-unblocked.png)
 
 ## Step 5: Verify the Fix
 
@@ -112,6 +109,9 @@ A blocked account typically shows error **50057** (user account is disabled).
 2. Go to **myaccount.microsoft.com**.
 3. Sign in as Jamie.
 4. Confirm the sign-in succeeds.
+
+<img width="449" height="234" alt="Screenshot 2026-10-30 091618" src="https://github.com/user-attachments/assets/3ef8b9e8-27db-4373-8d39-ec6d43ef3409" />
+
 
 ![Jamie signed in successfully](images/05-verified.png)
 
@@ -122,9 +122,13 @@ A blocked account typically shows error **50057** (user account is disabled).
 
    `Sign-in logs showed error 50057 (account disabled). Found sign-in blocked on the account in admin center. Unblocked and verified user can sign in. Resolved.`
 
-3. Change the status to **Resolved**.
+4. Change the status to **Resolved**.
 
-![Ticket resolved with resolution comment](images/06-resolved.png)
+<img width="591" height="562" alt="Screenshot 2026-10-30 092030" src="https://github.com/user-attachments/assets/d5887ab9-a06b-40d3-976b-70b3ef485eff" />
+
+<img width="945" height="40" alt="Screenshot 2026-10-30 092133" src="https://github.com/user-attachments/assets/a5df6706-95b7-4008-9e37-d1b460846c69" />
+
+
 
 ---
 
