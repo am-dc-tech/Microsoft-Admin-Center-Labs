@@ -101,12 +101,9 @@ Description: User states she forgot her password and cannot sign in to her accou
 2. Add a resolution comment: `Reset password in M365 admin center with forced change at next sign-in. Verified user can sign in and update password. Resolved.`
 3. Change the status to **Resolved**
 
-<img width="1124" height="34" alt="10 jira-ticket-resolution" src="https://github.com/user-attachments/assets/27f27a03-b8b4-453f-b08e-3bf88cadf580" />
-
-
 <img width="554" height="344" alt="Screenshot 2026-10-29 214816" src="https://github.com/user-attachments/assets/5e9de11d-c5e5-43c6-b586-edca22f01c74" />
 
-
+<img width="1124" height="34" alt="10 jira-ticket-resolution" src="https://github.com/user-attachments/assets/27f27a03-b8b4-453f-b08e-3bf88cadf580" />
 
 
 ## Final Result
