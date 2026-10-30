@@ -55,7 +55,8 @@ So there is something real to troubleshoot, I blocked Jamie's sign-in before cre
 4. Click **Create**.
 5. Open the ticket, change the status to **In Progress**, and add a comment: `Reproducing issue and checking sign-in logs.`
 
-![New ticket in Jira](images/01-ticket-created.png)
+<img width="567" height="221" alt="Screenshot 2026-10-30 085928" src="https://github.com/user-attachments/assets/385bd655-cb93-40c9-9b8a-f9860d3ee5b3" />
+
 
 ## Step 2: Reproduce the Problem
 
