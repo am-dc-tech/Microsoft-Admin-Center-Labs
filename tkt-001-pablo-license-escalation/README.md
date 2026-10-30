@@ -21,7 +21,7 @@ In this lab, I handled a "can't open email" ticket in Jira and traced it to a mi
 
 ---
 
-## The Ticket
+## Ticket-001
 
 | Field | Entry |
 |---|---|
