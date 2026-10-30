@@ -1,4 +1,4 @@
-#Microsoft Admin Center Lab With Jira : Password Reset (Tracy Dalhousie)
+# Microsoft Admin Center Lab With Jira : Password Reset (Tracy)
 
 ## Summary 
 
