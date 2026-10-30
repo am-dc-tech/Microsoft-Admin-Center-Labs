@@ -56,6 +56,10 @@ Description: User states she forgot her password and cannot sign in to her accou
 
 <!-- In real time environments, the it support should verify the user identity before resetting the password. -->
 
+
+<img width="544" height="150" alt="3 jira-first-comment" src="https://github.com/user-attachments/assets/54ca4bea-7d4b-4ded-babb-d1118b8bc343" />
+
+
 ## Step 3: Reset the Passwords in the Admin Center
 
 1. Go to admin.microsoft.com and sign in with the admin account.
