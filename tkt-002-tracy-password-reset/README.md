@@ -8,7 +8,7 @@ In this lab, I handled a forgotten password ticket from start to finish. I creat
 
 - Tenant: amtechlab.onmicrosoft.com
 - Admin: Kanbei - Jira
-- Users (all unlicensed): Jamie Randle, Pablo Marquez and Tracy Dalhousie
+- User:  Tracy Dalhousie
 - Portals: admin.microsoft.com, entra.microsoft.com
 - Verification: sign in as the user in a private browser window at myaccount.microsoft.com
 
