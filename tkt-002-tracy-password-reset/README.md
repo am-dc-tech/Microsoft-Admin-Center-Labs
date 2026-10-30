@@ -20,14 +20,14 @@ Before creating the ticket, I set up the scenario so the problem was real: a use
 2. Go to **Users > Active users** and confirm **Jamie Randle** is in the list.
 3. Select Jamie and choose **Reset password**. Auto-create a password and note the temporary password.
 4. In a **private browser window**, go to **myaccount.microsoft.com**, sign in as Jamie, and set a new password. This confirms the account worked before the problem and gives you a password to use later.
-5. Back in the admin center, select Jamie again and click **Block sign-in**, then save.
+5. Back in the admin center, select Tracy again and click **Block sign-in**, then save.
 6. Confirm the account now shows sign-in as **blocked**.
 
 ### Ticket-002
 
 | Field | Entry |
 |---|---|
-| Summary | Tracy Dalhousie - forgot password, cannot sign in |
+| Summary | Tracy - forgot password, cannot sign in |
 | Requester | Tracy Dalhousie |
 | Priority | Medium |
 | Category | Password |
