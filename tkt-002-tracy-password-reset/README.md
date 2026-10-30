@@ -23,6 +23,9 @@ Before creating the ticket, I set up the scenario so the problem was real: a use
 5. Back in the admin center, select Tracy again and click **Block sign-in**, then save.
 6. Confirm the account now shows sign-in as **blocked**.
 
+<img width="544" height="177" alt="1 block-sign-in" src="https://github.com/user-attachments/assets/0ae9279a-11bf-4925-87ef-8f8c859dc598" />
+
+
 ### Ticket-002
 
 | Field | Entry |
