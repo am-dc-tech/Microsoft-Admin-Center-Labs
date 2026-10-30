@@ -6,6 +6,7 @@ In this lab, I handled a "can't sign in" ticket in Jira and diagnosed the cause 
 
 ## Environment
 
+- **Tenant:** amtechlab.onmicrosoft.com
 - **Ticketing:** Jira
 - **Admin portals:** Microsoft 365 admin center (admin.microsoft.com), Microsoft Entra admin center (entra.microsoft.com)
 - **User:** Jamie Randle (test user)
