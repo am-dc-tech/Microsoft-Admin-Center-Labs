@@ -133,7 +133,7 @@ Licenses cost money and require manager or budget approval. A service desk techn
 
 | Field | Entry |
 |---|---|
-| Status | 🔴 Escalated (Waiting for customer) |
+| Status | Escalated (Waiting for customer) 🔴 |
 | Root cause | No Microsoft 365 license assigned |
 | Action taken | Diagnosed and escalated to manager for approval |
 | Next step | Assign a license once approval is received, then confirm the mailbox opens |
