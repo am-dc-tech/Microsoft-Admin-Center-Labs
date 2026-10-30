@@ -45,7 +45,9 @@ In this lab, I handled a "can't open email" ticket in Jira and traced it to a mi
    - **Description:** `User reports he cannot open Outlook or access his email.`
 4. Click **Create**.
 
-![New ticket in Jira](images/01-ticket-created.png)
+<img width="440" height="191" alt="Screenshot 2026-10-29 221327" src="https://github.com/user-attachments/assets/91dd883b-9293-423a-a5ba-262a8390dbd4" />
+
+
 
 ## Step 2: Start Working the Ticket in Jira
 
@@ -53,7 +55,8 @@ In this lab, I handled a "can't open email" ticket in Jira and traced it to a mi
 2. Change the status to **In Progress**.
 3. Add a comment: `Checking account status and licensing.`
 
-![Ticket in progress](images/02-in-progress.png)
+<img width="1062" height="34" alt="Screenshot 2026-10-29 221233" src="https://github.com/user-attachments/assets/16e249c2-03f4-432a-babc-5c8f0fc421a3" />
+
 
 ## Step 3: Confirm the Account Works
 
@@ -64,9 +67,12 @@ Before looking at licensing, rule out a sign-in problem.
 3. Sign in as Pablo.
 4. Confirm the sign-in succeeds.
 
+
+
 The account works, so the problem is not a password or blocked account.
 
-![Pablo signed in successfully](images/03-signin-works.png)
+<img width="526" height="222" alt="image" src="https://github.com/user-attachments/assets/2a672d5b-613a-4372-ac40-2471d98072a0" />
+
 
 ## Step 4: Check Licensing in the Admin Center
 
@@ -82,7 +88,8 @@ The account works, so the problem is not a password or blocked account.
 + Account sign-in: working
 ```
 
-![Licenses and apps tab with no license assigned](images/04-no-license.png)
+<img width="777" height="504" alt="Screenshot 2026-10-29 221747" src="https://github.com/user-attachments/assets/7a830ecc-1659-48ba-9d1e-a99564569815" />
+
 
 ## Step 5: Identify the Root Cause
 
